@@ -1,7 +1,7 @@
 ---
 title: "Family Room"
 weight: 6
-tasks_completed: 17
+tasks_completed: 38
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -21,6 +21,12 @@ tasks_planned: 0
 - ✅ Ethernet to wall TV
 - ✅ TV mounting bracket
 
-## In Progress
-
-## Planned
+### Fireplace Overhaul
+- ✅ Design phase - research options and finalize plan
+- ✅ Demo old surround
+- ✅ Install granite over brick hearth (outsourced)
+- ✅ Install new mantel beam
+- ✅ Build framing around brick
+- ✅ Install air stones
+- ✅ Paint inner brick edges black
+- ✅ Install new fireplace door

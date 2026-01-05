@@ -16,6 +16,3 @@ tasks_planned: 0
 - ✅ Replace thermostat
 - ✅ Replace outlets and switches (white)
 
-## In Progress
-
-## Planned

@@ -17,6 +17,3 @@ tasks_planned: 0
 - ✅ Replace knob and hinges
 - ✅ Replace outlets and switches (white)
 
-## In Progress
-
-## Planned

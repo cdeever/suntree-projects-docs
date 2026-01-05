@@ -19,6 +19,3 @@ Window blinds installation throughout the second floor.
 - ✅ Bedroom 2 - 1 window
 - ✅ Bedroom 3 - 1 window
 
-## In Progress
-
-## Planned

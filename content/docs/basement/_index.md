@@ -10,9 +10,3 @@ tasks_planned: 0
 # Basement
 
 Below-grade spaces and mechanical systems.
-
-## Completed
-
-## In Progress
-
-## Planned

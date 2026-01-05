@@ -11,8 +11,3 @@ tasks_planned: 0
 
 Garage improvements and organization.
 
-## Completed
-
-## In Progress
-
-## Planned

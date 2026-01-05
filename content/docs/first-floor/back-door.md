@@ -15,6 +15,3 @@ tasks_planned: 0
 - ✅ Install hardware
 - ✅ Rekey locks
 
-## In Progress
-
-## Planned

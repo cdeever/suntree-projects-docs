@@ -11,8 +11,3 @@ tasks_planned: 0
 
 Attic access, insulation, and storage.
 
-## Completed
-
-## In Progress
-
-## Planned

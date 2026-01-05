@@ -18,6 +18,3 @@ Window blinds installation throughout the first floor.
 - ✅ Dining room - 1 window
 - ✅ Living room - 2 front windows
 
-## In Progress
-
-## Planned
