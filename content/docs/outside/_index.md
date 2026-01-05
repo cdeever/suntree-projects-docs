@@ -2,7 +2,7 @@
 title: "Outside"
 weight: 3
 bookCollapseSection: true
-tasks_completed: 29
+tasks_completed: 59
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -23,3 +23,23 @@ Exterior projects including the deck, landscaping, and structural improvements.
 - ✅ Install new landing pavers <!-- small -->
 - ✅ Install railing <!-- small -->
 - ✅ Stain deck <!-- medium -->
+
+## Exterior Painting
+- ✅ Pressure washing <!-- medium -->
+- ✅ Recaulk joints <!-- medium -->
+- ✅ Repaint trim <!-- large -->
+- ✅ Repaint gutters and downspouts <!-- medium -->
+- ✅ Replace rotting wood above garage <!-- small -->
+- ✅ Replace rotting wood soffet above back door <!-- small -->
+- ✅ Replace rotting wood trim piece section in rear <!-- medium -->
+- ✅ Repaint shutters (white to black) <!-- medium -->
+
+## Mailbox
+- ✅ Repaint mailbox post <!-- small -->
+- ✅ Replace mailbox <!-- quick -->
+- ✅ Replace address numbers on mailbox post <!-- quick -->
+
+## Landscaping
+
+## Roof
+- ✅ Replace roofing (hired out) <!-- small -->
