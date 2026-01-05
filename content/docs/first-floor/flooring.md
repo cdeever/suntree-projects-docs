@@ -1,8 +1,8 @@
 ---
 title: "Flooring"
 weight: 1
-tasks_completed: 10
-tasks_in_progress: 4
+tasks_completed: 28
+tasks_in_progress: 7
 tasks_planned: 2
 ---
 

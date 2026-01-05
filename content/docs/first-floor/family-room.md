@@ -1,7 +1,7 @@
 ---
 title: "Family Room"
 weight: 6
-tasks_completed: 7
+tasks_completed: 17
 tasks_in_progress: 0
 tasks_planned: 0
 ---
