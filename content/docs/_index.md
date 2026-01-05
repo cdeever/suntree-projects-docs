@@ -6,7 +6,7 @@ bookFlatSection: true
 
 # Suntree Projects
 
-This site tracks plans and projects for home renovation at the Suntree property, starting from 2019.
+When I moved into this house in 2019, nothing had been done since the 1990s - builder grade lighting, cheap masonite trim, ugly bone colored electrical, worn out linoleum and carpet, bent blinds - everything must be updated!
 
 ## Overall Progress
 
@@ -14,11 +14,6 @@ This site tracks plans and projects for home renovation at the Suntree property,
 
 **Legend:** ✅ Complete | 🔄 In Progress | ⏳ Planned
 
-## Areas
+## Progress by Area
 
-- **First Floor** - Kitchen, living areas, and main floor rooms
-- **Second Floor** - Bedrooms, bathrooms, and upstairs spaces
-- **Outside** - Deck, landscaping, exterior, and roof
-- **Basement** - Below-grade spaces and systems
-- **Garage** - Garage improvements
-- **Attic** - Attic access and storage
+{{< section-progress-list >}}
