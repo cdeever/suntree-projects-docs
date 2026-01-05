@@ -1,7 +1,7 @@
 ---
 title: "Outside"
 weight: 1
-tasks_completed: 36
+tasks_completed: 40
 tasks_in_progress: 0
 tasks_planned: 31
 ---
@@ -54,3 +54,5 @@ tasks_planned: 31
 - ⏳ Replace dryer vent <!-- small -->
 
 ## Landscaping
+- ✅ Replace overgrown bushes next to front door <!-- small -->
+- ✅ Replace overgrown bushes at rear corner of house <!-- small -->
