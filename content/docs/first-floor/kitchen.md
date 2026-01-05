@@ -1,7 +1,7 @@
 ---
 title: "Kitchen"
 weight: 1
-tasks_completed: 0
+tasks_completed: 1
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -10,4 +10,5 @@ tasks_planned: 0
 
 ## Completed
 
-## Planned
+### Mechanicals
+- ✅ Replace garbage disposal <!-- quick -->
