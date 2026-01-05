@@ -1,3 +1,5 @@
 {{- if and .IsSection (not .IsHome) -}}
   {{- partial "section-progress.html" . -}}
+{{- else if or .Params.tasks_completed .Params.tasks_in_progress .Params.tasks_planned -}}
+  {{- partial "progress-bar.html" (dict "completed" (.Params.tasks_completed | default 0) "in_progress" (.Params.tasks_in_progress | default 0) "planned" (.Params.tasks_planned | default 0)) -}}
 {{- end -}}
