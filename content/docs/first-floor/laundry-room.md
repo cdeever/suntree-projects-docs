@@ -12,7 +12,7 @@ tasks_planned: 0
 
 - ✅ Deep clean wire shelving
 - ✅ Paint ceiling
-- ✅ Repaint walls
+- ✅ Patch, prime and repaint walls
 - ✅ Repaint door and casing
 - ✅ Replace knob and hinges
 - ✅ Replace outlets and switches (white)

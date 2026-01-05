@@ -12,7 +12,7 @@ tasks_planned: 0
 
 ### Painting
 - ✅ Repaint ceiling
-- ✅ Repaint walls
+- ✅ Patch, prime and repaint walls
 
 ### TV & Entertainment
 - ✅ Run 5.1 surround sound wiring

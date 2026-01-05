@@ -22,6 +22,6 @@ tasks_planned: 15
 
 - ⏳ Install overhead wafer lights
 - ⏳ Install accent lights
-- ⏳ Paint walls
+- ⏳ Patch, prime and repaint walls
 - ⏳ Paint trim
 - ⏳ Replace carpet
