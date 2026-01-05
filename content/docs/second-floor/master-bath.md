@@ -3,7 +3,7 @@ title: "Master Bath"
 weight: 3
 tasks_completed: 23
 tasks_in_progress: 3
-tasks_planned: 10
+tasks_planned: 27
 ---
 
 # Master Bath
@@ -49,3 +49,10 @@ tasks_planned: 10
 - ⏳ Build new knee wall framing <!-- medium -->
 - ⏳ Shim and true up studs for flat surface <!-- medium -->
 - ⏳ Install vapor barrier on exterior walls <!-- small -->
+- ⏳ Install cement board on shower and knee wall <!-- medium -->
+- ⏳ Install greenboard on remaining wall space <!-- medium -->
+- ⏳ Install stone cap on knee wall <!-- quick -->
+- ⏳ Install tile <!-- medium -->
+- ⏳ Install shower fixtures <!-- small -->
+- ⏳ Install glass surround <!-- medium -->
+- ⏳ Apply sealant <!-- small -->
