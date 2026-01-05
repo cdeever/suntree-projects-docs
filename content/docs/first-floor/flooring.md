@@ -10,9 +10,7 @@ tasks_planned: 2
 
 LVP flooring installation throughout the first floor, including baseboards and trim.
 
-## Completed
-
-### Planning and Prep
+## Planning and Prep
 - ✅ Design, measure and planning <!-- medium -->
 - ✅ Installation education <!-- large -->
 - ✅ Purchase tooling <!-- medium -->
@@ -22,37 +20,27 @@ LVP flooring installation throughout the first floor, including baseboards and t
 - ✅ Remove old carpet in family room <!-- medium -->
 - ✅ Remove old carpet in living room and dining room <!-- medium -->
 
-### Installation
+## Installation
 - ✅ LVP installation (all first floor rooms) <!-- major -->
 
-### Baseboards
+## Baseboards
 - ✅ Hallway baseboards <!-- small -->
 - ✅ Living room baseboards <!-- small -->
 - ✅ Laundry room baseboards <!-- small -->
 - ✅ Hall bath baseboards <!-- quick -->
 - ✅ Family room baseboards <!-- small -->
-
-### Trim & Molding
-- ✅ Kitchen cabinet kick panels <!-- small -->
-- ✅ Back door shoe molding <!-- quick -->
-- ✅ Front door shoe molding <!-- quick -->
-- ✅ Garage door entrance shoe molding <!-- quick -->
-
-### Completion
-- ✅ Move furniture back from storage unit <!-- medium -->
-
-## In Progress
-
-### Baseboards
 - 🔄 Dining room baseboards <!-- small -->
 - 🔄 Kitchen baseboards <!-- small -->
 - 🔄 Pantry baseboards <!-- small -->
 
-### Trim & Molding
+## Trim & Molding
+- ✅ Kitchen cabinet kick panels <!-- small -->
+- ✅ Back door shoe molding <!-- quick -->
+- ✅ Front door shoe molding <!-- quick -->
+- ✅ Garage door entrance shoe molding <!-- quick -->
 - 🔄 Kitchen cabinet shoe molding <!-- quick -->
-
-## Planned
-
-### Trim & Molding
 - ⏳ Hall bath shoe molding <!-- quick -->
 - ⏳ Hall bath vanity kick panel (need to check status) <!-- quick -->
+
+## Completion
+- ✅ Move furniture back from storage unit <!-- medium -->

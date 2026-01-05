@@ -8,23 +8,21 @@ tasks_planned: 0
 
 # Family Room
 
-## Completed
-
-### Painting
+## Painting
 - ✅ Repaint ceiling <!-- medium -->
 - ✅ Patch, prime and repaint walls <!-- medium -->
 
-### Electrical
+## Electrical
 - ✅ Replace outlets and switches (white) <!-- small -->
 
-### TV & Entertainment
+## TV & Entertainment
 - ✅ Run 5.1 surround sound wiring <!-- medium -->
 - ✅ New electric above fireplace for TV <!-- medium -->
 - ✅ HDMI to wall TV <!-- quick -->
 - ✅ Ethernet to wall TV <!-- quick -->
 - ✅ TV mounting bracket <!-- small -->
 
-### Fireplace Overhaul
+## Fireplace Overhaul
 - ✅ Design phase - research options and finalize plan <!-- medium -->
 - ✅ Demo old surround <!-- small -->
 - ✅ Install granite over brick hearth (outsourced) <!-- large -->
@@ -34,7 +32,7 @@ tasks_planned: 0
 - ✅ Paint inner brick edges black <!-- quick -->
 - ✅ Install new fireplace door <!-- small -->
 
-### Back Door
+## Back Door
 - ✅ Select door and storm door, schedule install <!-- quick -->
 - ✅ Paint door <!-- quick -->
 - ✅ Install hardware <!-- quick -->

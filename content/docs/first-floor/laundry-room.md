@@ -8,8 +8,6 @@ tasks_planned: 0
 
 # Laundry Room
 
-## Completed
-
 - ✅ Deep clean wire shelving <!-- quick -->
 - ✅ Paint ceiling <!-- small -->
 - ✅ Patch, prime and repaint walls <!-- medium -->

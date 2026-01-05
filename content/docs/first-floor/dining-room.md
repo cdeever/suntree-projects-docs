@@ -8,8 +8,6 @@ tasks_planned: 0
 
 # Dining Room
 
-## Completed
-
 - ✅ Remove ceiling medallion and repair texture <!-- medium -->
 - ✅ Repaint ceiling <!-- medium -->
 - ✅ Patch, prime and repaint walls <!-- medium -->

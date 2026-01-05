@@ -8,8 +8,6 @@ tasks_planned: 0
 
 # Bedroom Two
 
-## Completed
-
 - ✅ Paint door and casing <!-- small -->
 - ✅ Replace knobs and hinges <!-- quick -->
 - ✅ Replace outlets and switches (white) <!-- small -->

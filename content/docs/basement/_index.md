@@ -11,20 +11,18 @@ tasks_planned: 0
 
 Below-grade spaces and mechanical systems.
 
-## Completed
-
-### Mechanicals
+## Mechanicals
 - ✅ Replace HVAC <!-- medium -->
 - ✅ Replace water heater <!-- small -->
 - ✅ Replace sump pump <!-- small -->
 
-### Plumbing
+## Plumbing
 - ✅ Install utility sink <!-- small -->
 
-### Electrical
+## Electrical
 - ✅ Rewire overhead lighting for single switch <!-- small -->
 - ✅ Add two additional outlets <!-- small -->
 - ✅ Add structured wiring panel for network and A/V <!-- small -->
 
-### Crawl Space
+## Crawl Space
 - ✅ Replace plastic vapor barrier <!-- quick -->

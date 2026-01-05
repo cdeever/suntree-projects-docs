@@ -8,7 +8,5 @@ tasks_planned: 0
 
 # Kitchen
 
-## Completed
-
-### Mechanicals
+## Mechanicals
 - ✅ Replace garbage disposal <!-- quick -->

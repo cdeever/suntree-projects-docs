@@ -8,13 +8,11 @@ tasks_planned: 0
 
 # Stairs and Upstairs Hall
 
-## Completed
-
-### Stairs
+## Stairs
 - ✅ Repaint trim <!-- small -->
 - ✅ Sand and restain banister <!-- medium -->
 
-### Hall
+## Hall
 - ✅ Repair, prime and repaint walls <!-- medium -->
 - ✅ Repaint ceiling and attic door <!-- small -->
 - ✅ Repaint trim <!-- small -->
@@ -22,9 +20,9 @@ tasks_planned: 0
 - ✅ Replace overhead light <!-- quick -->
 - ✅ Replace smoke detector <!-- quick -->
 
-### Linen Closet
+## Linen Closet
 - ✅ Repaint linen closet <!-- medium -->
 - ✅ Repaint linen closet door and casing <!-- small -->
 
-### Attic
+## Attic
 - ✅ Install overhead light <!-- quick -->

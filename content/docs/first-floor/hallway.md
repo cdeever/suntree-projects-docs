@@ -8,9 +8,7 @@ tasks_planned: 0
 
 # Hallway
 
-## Completed
-
-### Front Door
+## Front Door
 - ✅ Select door and storm door, schedule install <!-- small -->
 - ✅ Paint door <!-- quick -->
 - ✅ Install hardware <!-- quick -->

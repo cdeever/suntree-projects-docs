@@ -31,33 +31,25 @@ tasks_planned: 15
 
 ### Task Format
 
-Tasks use status emoji with size in HTML comments:
+Tasks use status emoji with size in HTML comments. Groupings are H2 headings:
 
 ```markdown
-## Completed
-- ✅ Task description <!-- medium -->
+## Shower
+- ✅ Replace mixer valve <!-- quick -->
+- 🔄 Repair subfloor <!-- medium -->
+- ⏳ Install tile <!-- medium -->
 
-## In Progress
-- 🔄 Task description <!-- small -->
-
-## Planned
-- ⏳ Task description <!-- large -->
-```
-
-### Groupings
-
-Related tasks can be grouped under H3 headings within status sections:
-
-```markdown
-## Completed
-
-### Fireplace Overhaul
-- ✅ Demo old surround <!-- small -->
-- ✅ Install new mantel <!-- medium -->
-
-### Electrical
+## Electrical
 - ✅ Replace outlets <!-- small -->
+- ⏳ Install overhead lights <!-- large -->
 ```
+
+Status is indicated by emoji only (no Completed/In Progress/Planned headings):
+- ✅ = completed
+- 🔄 = in progress
+- ⏳ = planned
+
+This allows all tasks for a grouping to appear together regardless of status.
 
 ### Progress Bars
 

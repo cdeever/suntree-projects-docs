@@ -8,12 +8,7 @@ tasks_planned: 2
 
 # Bedroom Three
 
-## Completed
-
 - ✅ Paint door and casing <!-- small -->
 - ✅ Replace knobs and hinges <!-- quick -->
 - ✅ Install overhead lighting <!-- medium -->
-
-## Planned
-
 - ⏳ Replace outlets and switches (white) <!-- small -->

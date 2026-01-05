@@ -10,8 +10,6 @@ tasks_planned: 0
 
 Window blinds installation throughout the second floor.
 
-## Completed
-
 - ✅ Measure all windows <!-- quick -->
 - ✅ Master bath - 1 window <!-- quick -->
 - ✅ Master bedroom - 2 windows <!-- quick -->

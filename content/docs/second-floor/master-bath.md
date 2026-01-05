@@ -8,43 +8,28 @@ tasks_planned: 27
 
 # Master Bath
 
-## Completed
-
-### Demo
+## Demo
 - ✅ Demo <!-- medium -->
 
-### Painting
+## Subfloor
+- 🔄 Repair subfloor <!-- medium -->
+
+## Painting
 - ✅ Repaint ceiling <!-- small -->
 - ✅ Paint master bath door and casing <!-- small -->
 
-### Electrical
+## Electrical
 - ✅ Replace ceiling fan <!-- small -->
 - ✅ Replace shower light <!-- quick -->
 
-### Door
+## Door
 - ✅ Replace knob and hinges <!-- quick -->
 
-### Tub
+## Tub
 - ✅ Remove tub and cap off tub plumbing <!-- quick -->
 
-### Shower
+## Shower
 - ✅ Replace mixer valve <!-- quick -->
-
-### Master Closet
-- ✅ Deep clean wire racks <!-- small -->
-- ✅ Repair, prime and repaint walls <!-- medium -->
-- ✅ Repaint ceiling <!-- small -->
-- ✅ Repaint closet door and casing <!-- small -->
-- ✅ Replace closet door knob and hinges <!-- quick -->
-
-## In Progress
-
-### Subfloor
-- 🔄 Repair subfloor <!-- medium -->
-
-## Planned
-
-### Shower
 - ⏳ Install shower pan <!-- small -->
 - ⏳ Build new knee wall framing <!-- medium -->
 - ⏳ Shim and true up studs for flat surface <!-- medium -->
@@ -56,3 +41,10 @@ tasks_planned: 27
 - ⏳ Install shower fixtures <!-- small -->
 - ⏳ Install glass surround <!-- medium -->
 - ⏳ Apply sealant <!-- small -->
+
+## Master Closet
+- ✅ Deep clean wire racks <!-- small -->
+- ✅ Repair, prime and repaint walls <!-- medium -->
+- ✅ Repaint ceiling <!-- small -->
+- ✅ Repaint closet door and casing <!-- small -->
+- ✅ Replace closet door knob and hinges <!-- quick -->

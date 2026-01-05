@@ -10,8 +10,6 @@ tasks_planned: 0
 
 Window blinds installation throughout the first floor.
 
-## Completed
-
 - ✅ Measure all windows <!-- quick -->
 - ✅ Family room - single and double window <!-- quick -->
 - ✅ Kitchen - 3 bay and 1 sink window <!-- small -->

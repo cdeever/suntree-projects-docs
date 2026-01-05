@@ -8,17 +8,9 @@ tasks_planned: 17
 
 # Master Bedroom
 
-## Completed
-
 - ✅ Paint door and casing <!-- small -->
 - ✅ Replace knobs and hinges <!-- quick -->
-
-## In Progress
-
 - 🔄 Paint ceiling <!-- small -->
-
-## Planned
-
 - ⏳ Replace outlets and switches (white) <!-- small -->
 - ⏳ Install overhead wafer lights <!-- large -->
 - ⏳ Install accent lights <!-- medium -->
