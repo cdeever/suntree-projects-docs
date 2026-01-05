@@ -1,7 +1,7 @@
 ---
 title: "Half Bath"
 weight: 2
-tasks_completed: 21
+tasks_completed: 24
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -23,3 +23,10 @@ tasks_planned: 0
 - ✅ Replace vanity hinges with hidden style and add cabinet pulls <!-- small -->
 - ✅ Install backsplash around vanity top <!-- small -->
 - ✅ Add sealant around vanity top and backsplash <!-- quick -->
+
+## Toilet
+- ✅ Replace toilet seat <!-- quick -->
+- ✅ Rebuild toilet innards <!-- quick -->
+
+## Accessories
+- ✅ Add new towel rack and toilet paper holder <!-- quick -->
