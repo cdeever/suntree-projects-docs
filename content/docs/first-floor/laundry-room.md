@@ -1,7 +1,7 @@
 ---
 title: "Laundry Room"
 weight: 7
-tasks_completed: 7
+tasks_completed: 11
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -13,6 +13,9 @@ tasks_planned: 0
 - ✅ Deep clean wire shelving
 - ✅ Paint ceiling
 - ✅ Repaint walls
+- ✅ Repaint door and casing
+- ✅ Replace knob and hinges
+- ✅ Replace outlets and switches (white)
 
 ## In Progress
 
