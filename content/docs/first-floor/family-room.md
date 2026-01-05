@@ -11,31 +11,31 @@ tasks_planned: 0
 ## Completed
 
 ### Painting
-- ✅ Repaint ceiling
-- ✅ Patch, prime and repaint walls
+- ✅ Repaint ceiling <!-- medium -->
+- ✅ Patch, prime and repaint walls <!-- medium -->
 
 ### Electrical
-- ✅ Replace outlets and switches (white)
+- ✅ Replace outlets and switches (white) <!-- small -->
 
 ### TV & Entertainment
-- ✅ Run 5.1 surround sound wiring
-- ✅ New electric above fireplace for TV
-- ✅ HDMI to wall TV
-- ✅ Ethernet to wall TV
-- ✅ TV mounting bracket
+- ✅ Run 5.1 surround sound wiring <!-- medium -->
+- ✅ New electric above fireplace for TV <!-- medium -->
+- ✅ HDMI to wall TV <!-- quick -->
+- ✅ Ethernet to wall TV <!-- quick -->
+- ✅ TV mounting bracket <!-- small -->
 
 ### Fireplace Overhaul
-- ✅ Design phase - research options and finalize plan
-- ✅ Demo old surround
-- ✅ Install granite over brick hearth (outsourced)
-- ✅ Install new mantel beam
-- ✅ Build framing around brick
-- ✅ Install air stones
-- ✅ Paint inner brick edges black
-- ✅ Install new fireplace door
+- ✅ Design phase - research options and finalize plan <!-- medium -->
+- ✅ Demo old surround <!-- small -->
+- ✅ Install granite over brick hearth (outsourced) <!-- large -->
+- ✅ Install new mantel beam <!-- medium -->
+- ✅ Build framing around brick <!-- medium -->
+- ✅ Install air stones <!-- medium -->
+- ✅ Paint inner brick edges black <!-- quick -->
+- ✅ Install new fireplace door <!-- small -->
 
 ### Back Door
-- ✅ Select door and storm door, schedule install
-- ✅ Paint door
-- ✅ Install hardware
-- ✅ Rekey locks
+- ✅ Select door and storm door, schedule install <!-- quick -->
+- ✅ Paint door <!-- quick -->
+- ✅ Install hardware <!-- quick -->
+- ✅ Rekey locks <!-- quick -->

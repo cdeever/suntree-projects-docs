@@ -12,9 +12,8 @@ Window blinds installation throughout the first floor.
 
 ## Completed
 
-- ✅ Measure all windows
-- ✅ Family room - single and double window
-- ✅ Kitchen - 3 bay and 1 sink window
-- ✅ Dining room - 1 window
-- ✅ Living room - 2 front windows
-
+- ✅ Measure all windows <!-- quick -->
+- ✅ Family room - single and double window <!-- quick -->
+- ✅ Kitchen - 3 bay and 1 sink window <!-- small -->
+- ✅ Dining room - 1 window <!-- quick -->
+- ✅ Living room - 2 front windows <!-- quick -->

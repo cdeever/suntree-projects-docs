@@ -10,9 +10,8 @@ tasks_planned: 0
 
 ## Completed
 
-- ✅ Remove ceiling medallion and repair texture
-- ✅ Repaint ceiling
-- ✅ Patch, prime and repaint walls
-- ✅ Replace thermostat
-- ✅ Replace outlets and switches (white)
-
+- ✅ Remove ceiling medallion and repair texture <!-- medium -->
+- ✅ Repaint ceiling <!-- medium -->
+- ✅ Patch, prime and repaint walls <!-- medium -->
+- ✅ Replace thermostat <!-- quick -->
+- ✅ Replace outlets and switches (white) <!-- small -->

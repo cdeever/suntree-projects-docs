@@ -10,18 +10,18 @@ tasks_planned: 15
 
 ## Completed
 
-- ✅ Paint door
-- ✅ Replace knob and hinges
-- ✅ Replace outlets and switch (white)
+- ✅ Paint door <!-- quick -->
+- ✅ Replace knob and hinges <!-- quick -->
+- ✅ Replace outlets and switch (white) <!-- small -->
 
 ## In Progress
 
-- 🔄 Paint ceiling
+- 🔄 Paint ceiling <!-- small -->
 
 ## Planned
 
-- ⏳ Install overhead wafer lights
-- ⏳ Install accent lights
-- ⏳ Patch, prime and repaint walls
-- ⏳ Paint trim
-- ⏳ Replace carpet
+- ⏳ Install overhead wafer lights <!-- large -->
+- ⏳ Install accent lights <!-- medium -->
+- ⏳ Patch, prime and repaint walls <!-- medium -->
+- ⏳ Paint trim <!-- small -->
+- ⏳ Replace carpet <!-- medium -->

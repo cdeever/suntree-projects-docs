@@ -13,46 +13,46 @@ LVP flooring installation throughout the first floor, including baseboards and t
 ## Completed
 
 ### Planning and Prep
-- ✅ Design, measure and planning
-- ✅ Installation education
-- ✅ Purchase tooling
-- ✅ DIY delivery
-- ✅ Move furniture to storage unit
-- ✅ Remove old linoleum in kitchen, hallway, pantry and laundry room
-- ✅ Remove old carpet in family room
-- ✅ Remove old carpet in living room and dining room
+- ✅ Design, measure and planning <!-- medium -->
+- ✅ Installation education <!-- large -->
+- ✅ Purchase tooling <!-- medium -->
+- ✅ DIY delivery <!-- small -->
+- ✅ Move furniture to storage unit <!-- medium -->
+- ✅ Remove old linoleum in kitchen, hallway, pantry and laundry room <!-- large -->
+- ✅ Remove old carpet in family room <!-- medium -->
+- ✅ Remove old carpet in living room and dining room <!-- medium -->
 
 ### Installation
-- ✅ LVP installation (all first floor rooms)
+- ✅ LVP installation (all first floor rooms) <!-- major -->
 
 ### Baseboards
-- ✅ Hallway baseboards
-- ✅ Living room baseboards
-- ✅ Laundry room baseboards
-- ✅ Hall bath baseboards
-- ✅ Family room baseboards
+- ✅ Hallway baseboards <!-- small -->
+- ✅ Living room baseboards <!-- small -->
+- ✅ Laundry room baseboards <!-- small -->
+- ✅ Hall bath baseboards <!-- quick -->
+- ✅ Family room baseboards <!-- small -->
 
 ### Trim & Molding
-- ✅ Kitchen cabinet kick panels
-- ✅ Back door shoe molding
-- ✅ Front door shoe molding
-- ✅ Garage door entrance shoe molding
+- ✅ Kitchen cabinet kick panels <!-- small -->
+- ✅ Back door shoe molding <!-- quick -->
+- ✅ Front door shoe molding <!-- quick -->
+- ✅ Garage door entrance shoe molding <!-- quick -->
 
 ### Completion
-- ✅ Move furniture back from storage unit
+- ✅ Move furniture back from storage unit <!-- medium -->
 
 ## In Progress
 
 ### Baseboards
-- 🔄 Dining room baseboards
-- 🔄 Kitchen baseboards
-- 🔄 Pantry baseboards
+- 🔄 Dining room baseboards <!-- small -->
+- 🔄 Kitchen baseboards <!-- small -->
+- 🔄 Pantry baseboards <!-- small -->
 
 ### Trim & Molding
-- 🔄 Kitchen cabinet shoe molding
+- 🔄 Kitchen cabinet shoe molding <!-- quick -->
 
 ## Planned
 
 ### Trim & Molding
-- ⏳ Hall bath shoe molding
-- ⏳ Hall bath vanity kick panel (need to check status)
+- ⏳ Hall bath shoe molding <!-- quick -->
+- ⏳ Hall bath vanity kick panel (need to check status) <!-- quick -->

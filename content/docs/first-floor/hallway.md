@@ -11,7 +11,7 @@ tasks_planned: 0
 ## Completed
 
 ### Front Door
-- ✅ Select door and storm door, schedule install
-- ✅ Paint door
-- ✅ Install hardware
-- ✅ Rekey locks
+- ✅ Select door and storm door, schedule install <!-- small -->
+- ✅ Paint door <!-- quick -->
+- ✅ Install hardware <!-- quick -->
+- ✅ Rekey locks <!-- quick -->
