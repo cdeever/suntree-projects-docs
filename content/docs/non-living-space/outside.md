@@ -3,7 +3,7 @@ title: "Outside"
 weight: 1
 tasks_completed: 40
 tasks_in_progress: 0
-tasks_planned: 31
+tasks_planned: 36
 ---
 
 # Outside
@@ -52,6 +52,9 @@ tasks_planned: 31
 ## Vents
 - ✅ Replace vent panel <!-- quick -->
 - ⏳ Replace dryer vent <!-- small -->
+
+## Drainage
+- ⏳ Repair/replace sump and gutter drainage line <!-- large -->
 
 ## Landscaping
 - ✅ Replace overgrown bushes next to front door <!-- small -->

@@ -3,7 +3,7 @@ title: "Master Bath"
 weight: 3
 tasks_completed: 29
 tasks_in_progress: 3
-tasks_planned: 37
+tasks_planned: 41
 ---
 
 # Master Bath
@@ -50,6 +50,8 @@ tasks_planned: 37
 ## Flooring
 - ⏳ Remove old flooring <!-- small -->
 - ⏳ Install new flooring <!-- medium -->
+- ⏳ Replace kickplate <!-- small -->
+- ⏳ Replace shoe molding <!-- small -->
 
 ## Accessories
 - ⏳ Replace medicine cabinet <!-- small -->

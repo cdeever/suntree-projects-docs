@@ -3,7 +3,7 @@ title: "Hall Bath"
 weight: 3
 tasks_completed: 6
 tasks_in_progress: 0
-tasks_planned: 37
+tasks_planned: 41
 ---
 
 # Hall Bath
@@ -40,6 +40,8 @@ tasks_planned: 37
 ## Flooring
 - ⏳ Remove old flooring <!-- small -->
 - ⏳ Install new flooring <!-- medium -->
+- ⏳ Replace kickplate <!-- small -->
+- ⏳ Replace shoe molding <!-- small -->
 
 ## Accessories
 - ⏳ Replace medicine cabinet <!-- small -->
