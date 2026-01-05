@@ -1,4 +1,4 @@
-baseURL = "https://suntree-projects.github.io/suntree-projects-docs/"
+baseURL = "https://cdeever.github.io/home-rehab/"
 languageCode = "en-us"
 title = "Suntree Projects"
 theme = "hugo-book"

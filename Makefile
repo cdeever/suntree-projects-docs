@@ -6,7 +6,7 @@ html:
 
 # Run local development server with live reload
 server:
-	hugo server --bind 0.0.0.0 --baseURL http://localhost:1313/suntree-projects-docs/
+	hugo server --bind 0.0.0.0 --baseURL http://localhost:1313/home-rehab/
 
 # Alternative: serve built site with Python (no live reload)
 serve-static: html
