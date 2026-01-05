@@ -3,7 +3,7 @@ title: "Bedroom Three"
 weight: 7
 tasks_completed: 9
 tasks_in_progress: 0
-tasks_planned: 10
+tasks_planned: 14
 ---
 
 # Bedroom Three
@@ -17,6 +17,7 @@ tasks_planned: 10
 
 ## Closet
 - ✅ Paint closet door and casing <!-- small -->
+- ⏳ Paint closet <!-- medium -->
 
 ## Painting
 - ⏳ Paint ceiling <!-- small -->
@@ -26,3 +27,6 @@ tasks_planned: 10
 ## Electrical
 - ✅ Install overhead lighting <!-- medium -->
 - ⏳ Replace outlets and switches (white) <!-- small -->
+
+## HVAC
+- ⏳ Replace cold air return vent <!-- quick -->

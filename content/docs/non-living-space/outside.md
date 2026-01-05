@@ -1,9 +1,9 @@
 ---
 title: "Outside"
 weight: 1
-tasks_completed: 34
+tasks_completed: 36
 tasks_in_progress: 0
-tasks_planned: 29
+tasks_planned: 31
 ---
 
 # Outside
@@ -45,5 +45,12 @@ tasks_planned: 29
 
 ## Audio
 - ✅ Install outdoor speakers <!-- small -->
+
+## Electrical
+- ✅ Replace outdoor electrical outlet <!-- quick -->
+
+## Vents
+- ✅ Replace vent panel <!-- quick -->
+- ⏳ Replace dryer vent <!-- small -->
 
 ## Landscaping

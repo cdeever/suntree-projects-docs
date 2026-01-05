@@ -3,7 +3,7 @@ title: "Bedroom One"
 weight: 5
 tasks_completed: 11
 tasks_in_progress: 0
-tasks_planned: 10
+tasks_planned: 14
 ---
 
 # Bedroom One
@@ -18,6 +18,7 @@ tasks_planned: 10
 ## Closet
 - ✅ Repaint sliding closet door <!-- small -->
 - ✅ Replace hardware on sliding door <!-- quick -->
+- ⏳ Paint closet <!-- medium -->
 
 ## Painting
 - ⏳ Paint ceiling <!-- small -->
@@ -27,3 +28,6 @@ tasks_planned: 10
 ## Electrical
 - ✅ Install overhead lighting <!-- medium -->
 - ⏳ Replace outlets and switches (white) <!-- small -->
+
+## HVAC
+- ⏳ Replace cold air return vent <!-- quick -->

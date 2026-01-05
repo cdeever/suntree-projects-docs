@@ -3,7 +3,7 @@ title: "Master Bedroom"
 weight: 4
 tasks_completed: 4
 tasks_in_progress: 2
-tasks_planned: 14
+tasks_planned: 15
 ---
 
 # Master Bedroom
@@ -24,4 +24,7 @@ tasks_planned: 14
 - ⏳ Replace outlets and switches (white) <!-- small -->
 - ⏳ Install overhead wafer lights <!-- large -->
 - ⏳ Install accent lights <!-- medium -->
+
+## HVAC
+- ⏳ Replace cold air return vent <!-- quick -->
 
