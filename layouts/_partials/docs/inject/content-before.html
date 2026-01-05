@@ -1,0 +1,3 @@
+{{- if and .IsSection (not .IsHome) -}}
+  {{- partial "section-progress.html" . -}}
+{{- end -}}

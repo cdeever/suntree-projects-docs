@@ -1,0 +1,18 @@
+{{- $completed := 0 -}}
+{{- $in_progress := 0 -}}
+{{- $planned := 0 -}}
+
+{{- $docsPage := .Site.GetPage "/docs" -}}
+{{- range $docsPage.Sections -}}
+  {{- range .Pages -}}
+    {{- $completed = add $completed (.Params.tasks_completed | default 0) -}}
+    {{- $in_progress = add $in_progress (.Params.tasks_in_progress | default 0) -}}
+    {{- $planned = add $planned (.Params.tasks_planned | default 0) -}}
+  {{- end -}}
+  {{/* Also count tasks on section _index pages (for basement, garage, attic) */}}
+  {{- $completed = add $completed (.Params.tasks_completed | default 0) -}}
+  {{- $in_progress = add $in_progress (.Params.tasks_in_progress | default 0) -}}
+  {{- $planned = add $planned (.Params.tasks_planned | default 0) -}}
+{{- end -}}
+
+{{- partial "progress-bar.html" (dict "completed" $completed "in_progress" $in_progress "planned" $planned) -}}

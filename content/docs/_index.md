@@ -8,13 +8,17 @@ bookFlatSection: true
 
 This site tracks plans and projects for home renovation at the Suntree property, starting from 2019.
 
-Browse the **[Roadmap]({{< relref "/docs/roadmap" >}})** to see all projects organized by location:
+## Overall Progress
 
-- First Floor
-- Second Floor
-- Outside
-- Basement
-- Garage
-- Attic
+{{< overall-progress >}}
 
-Each area contains completed work and planned improvements.
+**Legend:** ✅ Complete | 🔄 In Progress | ⏳ Planned
+
+## Areas
+
+- **First Floor** - Kitchen, living areas, and main floor rooms
+- **Second Floor** - Bedrooms, bathrooms, and upstairs spaces
+- **Outside** - Deck, landscaping, exterior, and roof
+- **Basement** - Below-grade spaces and systems
+- **Garage** - Garage improvements
+- **Attic** - Attic access and storage
