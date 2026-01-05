@@ -1,17 +1,18 @@
 ---
 title: "Master Bath"
 weight: 3
-tasks_completed: 23
+tasks_completed: 28
 tasks_in_progress: 3
 tasks_planned: 27
 ---
 
 # Master Bath
 
-## Demo
-- ✅ Demo <!-- medium -->
-
-## Subfloor
+## Planning and Prep
+- ✅ Remove old shower surround, pan, tile and fixtures <!-- small -->
+- ✅ Remove tub <!-- quick -->
+- ✅ Remove old knee wall and tub framing and tile <!-- medium -->
+- ✅ Remove old drywall up to ceiling <!-- small -->
 - 🔄 Repair subfloor <!-- medium -->
 
 ## Painting
